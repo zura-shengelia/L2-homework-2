@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(221, 215, 215);
+}
+
+.twitter-box {
+    width: 280px;
+    height: 350px;
+    background-color: white;
+    border-radius: 7px;
+}
+
+.button-logout {
+    background-color: black;
+    color: white;
+    width: 200px;
+    height: 40px;
+    border-radius: 20px;
+
+}
+
+.button-cancel {
+    background-color: white;
+    color:black;
+    width: 200px;
+    height: 40px;
+    border-radius: 20px;
+
+}
